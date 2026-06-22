@@ -1,0 +1,42 @@
+========================================
+STUDENT GRADE CALCULATOR
+========================================
+Enter number of students: 3
+
+=== STUDENT 1 ===
+Enter student name: Aarav Sharma
+Enter marks for Math: 92
+Enter marks for Science: 88
+Enter marks for English: 95
+
+=== STUDENT 2 ===
+Enter student name: Ananya Gupta
+Enter marks for Math: 85
+Enter marks for Science: 91
+Enter marks for English: 87
+
+=== STUDENT 3 ===
+Enter student name: Rohan Verma
+Enter marks for Math: 78 
+Enter marks for Science: 82
+Enter marks for English: 75
+
+========================================
+RESULTS SUMMARY
+========================================
+Name            Average Grade   Comment
+Aarav Sharma            91.7    A       Excellent!
+Ananya Gupta            87.7    B       Very Good!
+Rohan Verma             78.3    C       Good!
+
+========================================
+CLASS STATISTICS
+========================================
+Total Students: 3
+Class Average: 85.9
+Highest Average: 91.7 (Aarav Sharma)
+Lowest Average: 78.3 (Rohan Verma)
+
+========================================
+Thank you for using the Grade Calculator!
+========================================
